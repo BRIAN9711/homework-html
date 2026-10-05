@@ -1,0 +1,46 @@
+.divClass {
+  background-color: #6c726b;
+  padding: 70px;
+  border-radius: 90px;
+  border: dashed rgb(19, 18, 18);
+}
+
+#thirdDiv {
+  background-color: #6c726b;
+  padding: 50px;
+  border-radius: 90px;
+  border: dashed rgb(19, 18, 18);
+  width: 500px;
+  height: 900px;
+}
+
+#spanId {
+  color: rgb(100, 24, 24);
+  font-size: 18px;
+  margin: 50px;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  width: 400px;
+}
+
+.chicharon,
+.frijoles {
+  width: 400px;
+  height: 400px;
+}
+.divClass {
+  width: 500px;
+  margin: 0 auto;
+}
+.divClass {
+  text-align: center;
+}
+#thirdDiv {
+  width: 500px;
+  margin: 0 auto;
+}
